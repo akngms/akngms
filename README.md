@@ -2,7 +2,6 @@
 This is fine.
 
 - 🔭 I’m currently working on [niin.stream](https://niin.stream/)
-- 🌱 I’m currently learning React
 
 <!--
 **akngms/akngms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
